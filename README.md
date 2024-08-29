@@ -8,3 +8,19 @@
 ![9ef953bf-331c-4f7b-bcbf-1b44026bc41b-5](https://github.com/user-attachments/assets/cbcb62b3-9f8d-4e5f-b024-e304a50f32a8)
 ![9ef953bf-331c-4f7b-bcbf-1b44026bc41b-6](https://github.com/user-attachments/assets/b9f2e553-ec9e-4f31-8a19-530fa48f5c06)
 
+
+
+
+OUTPUT:
+
+
+![WhatsApp Image 2024-08-29 at 15 14 36_95bef50d](https://github.com/user-attachments/assets/86bf0dd5-b02b-4e94-8882-d0197c89038b)
+
+
+SIMULATION OUTPUTS:
+
+
+![image](https://github.com/user-attachments/assets/861f8e19-4e6d-403e-b433-683fa267136f)
+
+
+
